@@ -1,0 +1,8 @@
+.repo-selector{
+  margin: 10px 0;
+  color: white;
+}
+
+.repo-selector .title{
+    margin-bottom: 5px;
+}

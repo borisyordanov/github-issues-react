@@ -1,0 +1,9 @@
+.selector {
+  margin: 0 20px;
+  border: 1px solid #111;
+  background: #eee;
+  padding: 5px 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  height: 34px;
+}
